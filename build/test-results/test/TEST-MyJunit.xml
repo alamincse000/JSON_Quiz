@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyJunit" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-27T15:44:01" hostname="DESKTOP-MMKSPVQ" time="44.864">
+  <properties/>
+  <testcase name="datePicker" classname="MyJunit" time="44.864"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+1658936642979	geckodriver	INFO	Listening on 127.0.0.1:51769
+1658936644235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headed" "--remote-debugging-port" "62338" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\alami\\AppData\\Local\\Temp\\rust_mozprofileqfzlDk"
+1658936644687	Marionette	INFO	Marionette enabled
+1658936644693	Marionette	INFO	Listening on port 4193
+WebDriver BiDi listening on ws://localhost:62338
+Read port: 4193
+1658936645073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\alami\\AppData\\Local\\Temp\\rust_mozprofileqfzlDk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62338/devtools/browser/0eb3fa6a-8792-4395-9df8-5f9bd2bba6ee
+Jul 27, 2022 9:44:07 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 5553 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 6323 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sJnbOeR1u3NfD4ifTr6IY70aHZRfr3yKQi-A2m-oHT4.js line 2 > eval line 72 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+]]></system-err>
+</testsuite>

@@ -1,0 +1,162 @@
+[
+  {
+    "Option a": "Unit testing ",
+    "Option b": "intregation testing",
+    "answer": "a",
+    "Question": "Which is done by develoer?",
+    "Option c": "Sanity testing",
+    "Option d": "regression testing"
+  },
+  {
+    "Option a": "Load testing",
+    "Option b": "Security testing",
+    "answer": "c",
+    "Question": "Which is functional testing?",
+    "Option c": "gorila testing",
+    "Option d": "performance testing"
+  },
+  {
+    "Option a": "functional correctness",
+    "Option b": "authorization ",
+    "answer": "d",
+    "Question": "What is test type?",
+    "Option c": "service level ",
+    "Option d": "Above all"
+  },
+  {
+    "Option a": "software tester",
+    "Option b": "software developer",
+    "answer": "d",
+    "Question": "Q4 Which is not perform testing ?",
+    "Option c": "Project lead",
+    "Option d": "Hr Department"
+  },
+  {
+    "Option a": "Q5 What type of testing type ?",
+    "Option b": "4 type",
+    "answer": "d",
+    "Question": "",
+    "Option c": "2 type",
+    "Option d": "3 type"
+  },
+  {
+    "Option a": "Explority testing",
+    "Option b": "feature testing",
+    "answer": "c",
+    "Question": "Q6 Which is non functional testing?",
+    "Option c": "performance testing",
+    "Option d": "smole testing"
+  },
+  {
+    "Option a": "Black box testing",
+    "Option b": "grey box testing ",
+    "answer": "d",
+    "Question": "Q6 Whis is not testing method?",
+    "Option c": "white box testing",
+    "Option d": "Regression Testing"
+  },
+  {
+    "Option a": "four",
+    "Option b": "one ",
+    "answer": "a",
+    "Question": "Q7 What type of testing level?",
+    "Option c": "two",
+    "Option d": "five"
+  },
+  {
+    "Option a": "Black box testing",
+    "Option b": "White box testing",
+    "answer": "d",
+    "Question": "Q8 : Which Testing is performed first?",
+    "Option c": "Dynamic testing",
+    "Option d": "Static testing"
+  },
+  {
+    "Option a": "Author",
+    "Option b": "Moderator",
+    "answer": "a",
+    "Question": "Q9 : Who leads a walk through?",
+    "Option c": "Reviewe",
+    "Option d": "Scribe"
+  },
+  {
+    "Option a": "Early feedback of a quality",
+    "Option b": "Less rework cost",
+    "answer": "d",
+    "Question": "Q10 : Which are the benefits of Static Testing?",
+    "Option c": "Increased developmental productivity",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "lack of Training",
+    "Option b": "lack of Testing Tools",
+    "answer": "d",
+    "Question": "Q11 : Why it is difficult for a developer to do a testing job?",
+    "Option c": "lack of Technical Documents",
+    "Option d": "lack of Objectives"
+  },
+  {
+    "Option a": "Good Programme",
+    "Option b": "Reliable",
+    "answer": "a",
+    "Question": "Q12 : Which is least required skill of a Tester?",
+    "Option c": "Attention to details",
+    "Option d": "Being diplomatic"
+  },
+  {
+    "Option a": "Verified",
+    "Option b": "Deferred",
+    "answer": "c",
+    "Question": "Q13 : Which is not the state of bug in bug Life Cycle?",
+    "Option c": "Critical",
+    "Option d": "Postponed"
+  },
+  {
+    "Option a": "Verification",
+    "Option b": "Validation",
+    "answer": "a",
+    "Question": "Q14 : Which activity is carried out first?",
+    "Option c": "Both",
+    "Option d": "None"
+  },
+  {
+    "Option a": "Control of test item",
+    "Option b": "Negative consequences",
+    "answer": "d",
+    "Question": "Q15 : What is associated with the Product Risk?",
+    "Option c": "non-availability of test environment",
+    "Option d": "Test objec"
+  },
+  {
+    "Option a": "The scope",
+    "Option b": "The approach",
+    "answer": "d",
+    "Question": "Q16: What does a test plan include?",
+    "Option c": "Resources required",
+    "Option d": "All of above"
+  },
+  {
+    "Option a": "Requirements",
+    "Option b": "Planning ",
+    "answer": "d",
+    "Question": "Q17 What is the QA Testing Life Cycle?",
+    "Option c": "Analysis ",
+    "Option d": "All of above"
+  },
+  {
+    "Option a": "On request of customer",
+    "Option b": "After system is ready",
+    "answer": "c",
+    "Question": "Q18 Q20 : When is Acceptance Testing performed in Agile development?",
+    "Option c": "At the end of each iteration",
+    "Option d": "Daily"
+  },
+  {
+    "Option a": "Good Programme",
+    "Option b": "Reliable",
+    "answer": "a",
+    "Question": "Q20 Q8 : Which is least required skill of a Tester?",
+    "Option c": "Attention to details",
+    "Option d": "Being diplomatic"
+  }
+]
